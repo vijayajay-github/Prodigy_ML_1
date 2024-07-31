@@ -23,5 +23,6 @@ A linear regression model is trained using the preprocessed data. The model is t
 # Results
 R² Score: The R² score of the model on the test set is obtained and displayed.
 Visualization: A scatter plot is generated to visualize the actual vs. predicted house prices.
+![image](https://github.com/user-attachments/assets/d52a5e95-fcf7-44c8-9c42-c28d029e026b)
 # Conclusion
 This project demonstrates the process of building a linear regression model for house price prediction. The model's performance can be further improved by incorporating more sophisticated feature engineering and trying different machine learning algorithms.
