@@ -5,11 +5,7 @@ This project aims to predict house prices using a linear regression model. The d
 Dataset
 The dataset used in this project is derived from a housing dataset, which includes features such as longitude, latitude, total_rooms, total_bedrooms, population, households, and the target variable median_house_value.
 
-# Project Structure
-├── housing.csv                 # Dataset file
-├── house_price_prediction.py   # Main script for data preprocessing, model training, and evaluation
-├── README.md                   # Project documentation
-└── requirements.txt            # List of required packages
+# Libraries used
 
 pandas is used for data manipulation and analysis
 
